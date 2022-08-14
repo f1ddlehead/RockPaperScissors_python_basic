@@ -1,5 +1,5 @@
-#wordle_python_basic
-I tried to recreate the "Wordle" game in this project.
+#wordle_python_basic. 
+- I tried to recreate the "Wordle" game in this project.
 It is not exactly like "Wordle" but it follows the same fundamentals of the game.
 I have only used python basics to create this project.
 I have added 3 difficulty levels.
