@@ -6,8 +6,8 @@ print("The Game Wordle Is Not Case Sensitive")
 def to_start(start):
 
     if start == "WORDLE":
-        print(f"Hello User! Welcome To Wordle! Wordle Is a Really Easy Game. "
-              "You'll Get 5 chances To Get The Matching Letters From The Generated Word. " 
+        print(f"Hello User! Welcome To Wordle! Wordle Is a Really Easy Game.\n"
+              "You'll Get 5 chances To Get The Matching Letters From The Generated Word.\n" 
               "Finally You Just Have To Guess The Word With The Matching Letters. ")
 
         def difficulty_level(difficulty):
